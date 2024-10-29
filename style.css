@@ -4,7 +4,7 @@ color:black;
 }
 header{
     margin:50px ;
-    background-color: blue;
+    background-color: rgb(241, 241, 245);
     text-size-adjust: 75px;
     justify-content: center;
 }
