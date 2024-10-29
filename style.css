@@ -1,15 +1,17 @@
 body{
-background-color: rgb(8, 8, 8);
-color:black;
+background-color: #A9B0BE;
+color:rgb(241, 237, 237);
 }
 header{
     margin:50px ;
-    background-color: rgb(241, 241, 245);
+    background-color: #C7D0E0;
     text-size-adjust: 75px;
     justify-content: center;
+border:solid 20px rgb#4E5158
+
 }
 section{
-background-color: white;
+background-color:#6C717A;
 margin: 50px;
 display: flex;
 padding-top: 150px;
