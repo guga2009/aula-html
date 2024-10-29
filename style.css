@@ -8,7 +8,12 @@ header{
     text-size-adjust: 75px;
     justify-content: center;
 }
+section{
+background-color: aliceblue;
+margin: 50px;
+display: flex;
 
+}
 
 
 
