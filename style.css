@@ -1,5 +1,5 @@
 body{
-background-color: rgb(247, 252, 247);
+background-color: rgb(8, 8, 8);
 color:black;
 }
 header{
@@ -9,7 +9,7 @@ header{
     justify-content: center;
 }
 section{
-background-color: rgb(17, 17, 17);
+background-color: white;
 margin: 50px;
 display: flex;
 padding-top: 150px;
