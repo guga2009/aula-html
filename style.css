@@ -2,6 +2,24 @@ body{
 background-color: #A9B0BE;
 color:rgb(17, 17, 17);
 }
+
+section{
+    background-color: black;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.primeira chamada{
+    margin-right: 5%;
+}
+.mais vidios de trailers de jogos{
+    display:flex;
+    overflow-x:auto ;
+    gap:10px;
+}
+
 header{
     margin:50px ;
     background-color: #C7D0E0;
